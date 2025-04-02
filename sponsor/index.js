@@ -18,7 +18,7 @@ const response = fetch(
     method: "POST",
     headers: {
       Authorization:
-        "Bearer ntn_B81881347342iVT8XrG1haimIIP8kG0usW5nLiOYiuo77A",
+        "Bearer ntn_f81881347348hCqYnncDZHSO0P5ENP1C1BoY6CvWZOReZf",
       "Content-Type": "application/json",
       "Notion-Version": "2022-06-28",
     },
